@@ -1,1 +1,1 @@
-{"content": "global:\n  scrape_interval: 15s \n\nscrape_configs:\n  - job_name: prometheus\n    static_configs:\n      - targets: ['localhost:9090']\n"}
+{"content":"Z2xvYmFsOgogIHNjcmFwZV9pbnRlcnZhbDogMTVzIAoKc2NyYXBlX2NvbmZpZ3M6CiAgLSBqb2JfbmFtZTogcHJvbWV0aGV1cwogICAgc3RhdGljX2NvbmZpZ3M6CiAgICAgIC0gdGFyZ2V0czogWydsb2NhbGhvc3Q6OTA5MCddCg==", "encoding":"base64"}
